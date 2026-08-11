@@ -12,11 +12,11 @@ public class Demo {
 		final String username = "root";
 		final String password = "123456";
 
-//		String query = "insert into student values(102,'vijay',90,49,'HYD')";
+		String query = "insert into student values(103,'teja',90,49,'HYD')";
 		
 //		String query="update student set stloc='KPHB' where id=101";
 		
-		String query="delete from student where id=102";
+//		String query="delete from student where id=102";
 
 		try {
 			// stage-1
