@@ -14,7 +14,7 @@ public class JdbcResultSet {
 		final String username = "root";
 		final String password = "123456";
 
-		String query = "select * from student";
+		String query = "select * from st";
 
 		try {
 			// stage-1:-
